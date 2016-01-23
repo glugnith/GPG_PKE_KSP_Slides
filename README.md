@@ -3,7 +3,13 @@ Slides for Public Key Encryption Workshop
 
 This repository contains the slides for Public Key Encryption workshop held on 20<sup>th</sup> and 21<sup>st</sup> January 2016. 
 
-Topics covered (touched would be more appropriate):
+### How to use?
+
+* Download the zip folder of this repository.
+* Open "day1.html" or "day2.html" accordingly.
+
+
+### Topics covered (touched would be more appropriate):
 
 * GPG
 * Public/Priate Keys
