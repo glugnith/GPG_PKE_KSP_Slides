@@ -17,4 +17,4 @@ This repository contains the slides for Public Key Encryption workshop held on 2
 * Signing Documents
 * Signing Keys and more...
 
-Slides created using [Reveal.js](https://lab.hakim.se/reveal-js/). Get the source from here -> [Reveal.js Source](http://github.com/hakimel/reveal.js/).
+Slides created using [Reveal.js](http://lab.hakim.se/reveal-js/). Get the source from here -> [Reveal.js Source](http://github.com/hakimel/reveal.js/).
